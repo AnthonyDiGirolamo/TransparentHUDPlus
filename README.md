@@ -48,47 +48,32 @@ If you find any bugs, please let us know on the Steam Workshop or with an issue 
 ### v1.0
 
 1. Transparent HUD mod included (By Rockman, Original Author)
-
 2. Item Filter icons tweaked red, so you can see them easier while scrolling through large inventory lists.
-
 3. Tiered tools now got a bit of color to their icons.
-
 4. The horizon bar for planets has been tweaked just a little bit.
-
 5. The hide weapons texture was tweaked a bit, as I did not like just the blue hand.
-
 6. Cryopods got their windows widened.
 
 ### v2.0
 
-1. Names removed from crypod, for the better
-
+1. Names removed from cryopod
 2. G screen color coded!
 
 ### v3.0
 
 1. Some components got their icons tweaked slightly.
-
 2. Mod info appears in loading screens and menu, as well as pause screen.
-
 3. On/Off grid icons have been changed to make more sense.
-
 4. Variants available "+" sign has been tweaked in color.
 
 ### v4.0
 
 1. All submitted screenshots have made it into the update. In the future we will add more!
-
 2. Contributors, authors, and loading screen uploaders have received their name in the Cryopod!
-
 3. Toolbar tab selection/hotbar number has received an update.
-
 4. Splash screen got mod version number.
-
 5. Control panel has received some color.
-
 6. Girders image has been inverted. No more small steel tubes confusion!
-
 7. Additional downloads via Github made available. Rockman has made both the original and this version available on Github!
 
 ## License
