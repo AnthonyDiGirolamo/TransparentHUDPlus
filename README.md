@@ -6,6 +6,7 @@ less intrusive and easier on the eyes. It's an improvement and update to
 additional changes to the HUD, GUI, Cyropods, and Inventory.
 
 Please subscribe on the [Steam Workshop Entry](http://steamcommunity.com/sharedfiles/filedetails/?id=710878444) and help support us!
+Also checkout some [other mods by Zunkey on Steam](http://steamcommunity.com/id/zunkey/myworkshopfiles/?appid=244850).
 
 ## Installation
 
