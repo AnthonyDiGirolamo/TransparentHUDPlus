@@ -12,7 +12,7 @@ Also checkout some [other mods by Zunkey on Steam](http://steamcommunity.com/id/
 
 1. [Download the latest release here.](https://github.com/AnthonyDiGirolamo/TransparentHUDPlus/releases)
 2. Extract anywhere
-3. Copy the GUI folder to your SpaceEngineers texture folder. Usually located at `C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Textures`
+3. Copy the `GUI` and `Logo` folder to your SpaceEngineers `Texture` folder. Usually located at `C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Textures`
 4. Replace all existing files when asked
 
 New updates to SpaceEngineers from Keen Software House may overwrite this mod and require reinstalling.
