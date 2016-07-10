@@ -7,7 +7,7 @@ additional changes to the HUD, GUI, Cyropods, and Inventory.
 
 Please subscribe on the [Steam Workshop Entry](http://steamcommunity.com/sharedfiles/filedetails/?id=710878444) and help support us!
 
-# Installation
+## Installation
 
 1. [Download the latest release here.](https://github.com/AnthonyDiGirolamo/TransparentHUDPlus/releases)
 2. Extract anywhere
@@ -16,15 +16,15 @@ Please subscribe on the [Steam Workshop Entry](http://steamcommunity.com/sharedf
 
 New updates to SpaceEngineers from Keen Software House may overwrite this mod and require reinstalling.
 
-# Uninstalling
+## Uninstalling
 
 If you would like to uninstall this mod you can use the Steam **Verify Integrity of Game Cache** function and the original textures will be restored. See the [Steam Support How-To Guide](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335) for more info.
 
-# Screenshots
+## Screenshots
 
 Many more screenshots are available on the [Steam Workshop page](http://steamcommunity.com/sharedfiles/filedetails/?id=710878444).
 
-# FAQ
+## FAQ
 
 * This mod does not work when I'm subscribed to it on the Steam Workshop.
 
@@ -39,7 +39,7 @@ Many more screenshots are available on the [Steam Workshop page](http://steamcom
   and rename `CryopodinteriorBACKUP.dds` to `Cryopodinterior.dds` This way you can
   disable the ones you don't want.
 
-# Contributing
+## Contributing
 
 If you find any bugs, please let us know on the Steam Workshop or with an issue on Github. Comments are also appreciated!
 
@@ -64,8 +64,6 @@ If you find any bugs, please let us know on the Steam Workshop or with an issue 
 1. Names removed from crypod, for the better
 
 2. G screen color coded!
-
-NEW G SCREEN COLOR CODING!
 
 ### v3.0
 
