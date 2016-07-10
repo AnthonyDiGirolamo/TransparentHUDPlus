@@ -24,6 +24,24 @@ If you would like to uninstall this mod you can use the Steam **Verify Integrity
 
 Many more screenshots are available on the [Steam Workshop page](http://steamcommunity.com/sharedfiles/filedetails/?id=710878444).
 
+[![title.jpg](https://raw.githubusercontent.com/AnthonyDiGirolamo/TransparentHUDPlus/master/Screenshots/title.jpg)](https://raw.githubusercontent.com/AnthonyDiGirolamo/TransparentHUDPlus/master/Screenshots/title.jpg)
+
+[![controlpanelcolor.jpg](https://raw.githubusercontent.com/AnthonyDiGirolamo/TransparentHUDPlus/master/Screenshots/controlpanelcolor.jpg)](https://raw.githubusercontent.com/AnthonyDiGirolamo/TransparentHUDPlus/master/Screenshots/controlpanelcolor.jpg)
+
+[![gcolorcoding.jpg](https://raw.githubusercontent.com/AnthonyDiGirolamo/TransparentHUDPlus/master/Screenshots/gcolorcoding.jpg)](https://raw.githubusercontent.com/AnthonyDiGirolamo/TransparentHUDPlus/master/Screenshots/gcolorcoding.jpg)
+
+[![hideweapons.jpg](https://raw.githubusercontent.com/AnthonyDiGirolamo/TransparentHUDPlus/master/Screenshots/hideweapons.jpg)](https://raw.githubusercontent.com/AnthonyDiGirolamo/TransparentHUDPlus/master/Screenshots/hideweapons.jpg)
+
+[![horizonbar.jpg](https://raw.githubusercontent.com/AnthonyDiGirolamo/TransparentHUDPlus/master/Screenshots/horizonbar.jpg)](https://raw.githubusercontent.com/AnthonyDiGirolamo/TransparentHUDPlus/master/Screenshots/horizonbar.jpg)
+
+[![inventory.jpg](https://raw.githubusercontent.com/AnthonyDiGirolamo/TransparentHUDPlus/master/Screenshots/inventory.jpg)](https://raw.githubusercontent.com/AnthonyDiGirolamo/TransparentHUDPlus/master/Screenshots/inventory.jpg)
+
+[![ONOFFGRID.jpg](https://raw.githubusercontent.com/AnthonyDiGirolamo/TransparentHUDPlus/master/Screenshots/ONOFFGRID.jpg)](https://raw.githubusercontent.com/AnthonyDiGirolamo/TransparentHUDPlus/master/Screenshots/ONOFFGRID.jpg)
+
+[![tools.jpg](https://raw.githubusercontent.com/AnthonyDiGirolamo/TransparentHUDPlus/master/Screenshots/tools.jpg)](https://raw.githubusercontent.com/AnthonyDiGirolamo/TransparentHUDPlus/master/Screenshots/tools.jpg)
+
+[![cryowindow.jpg](https://raw.githubusercontent.com/AnthonyDiGirolamo/TransparentHUDPlus/master/Screenshots/cryowindow.jpg)](https://raw.githubusercontent.com/AnthonyDiGirolamo/TransparentHUDPlus/master/Screenshots/cryowindow.jpg)
+
 ## FAQ
 
 * This mod does not work when I'm subscribed to it on the Steam Workshop.
