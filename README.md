@@ -1,103 +1,102 @@
-# Transparent HUD Plus
+# Transparent HUD+
 
-Transparent HUD Plus is a SpaceEngineers texture mod to make the user interface less intrusive. It's an improvement and update to [TransparentUI](https://github.com/AnthonyDiGirolamo/TransparentUI)
+Transparent HUD Plus is a SpaceEngineers texture mod to make the user interface
+less intrusive and easier on the eyes. It's an improvement and update to
+[TransparentUI](https://github.com/AnthonyDiGirolamo/TransparentUI) which adds
+additional changes to the HUD, GUI, Cyropods, and Inventory.
 
-[Steam Workshop Entry](http://steamcommunity.com/sharedfiles/filedetails/?id=710878444)
+Please subscribe on the [Steam Workshop Entry](http://steamcommunity.com/sharedfiles/filedetails/?id=710878444) and help support us!
 
-Ever wanting to spice up your hud, GUI and more? Want a transparent hud mod? well then this mod is for you.
-I made this mod kinda like a concept, so some things may be out of the ordinary/unliked; so I made it so you can configure it if you read how!
+# Installation
 
-This mod changes the hud, Gui, Cyropods, Inventory, and more (asthetics wise)
+1. [Download the latest release here.](https://github.com/AnthonyDiGirolamo/TransparentHUDPlus/releases)
+2. Extract anywhere
+3. Copy the GUI folder to your SpaceEngineers texture folder. Usually located at `C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Textures`
+4. Replace all existing files when asked
 
- V1.0
+New updates to SpaceEngineers from Keen Software House may overwrite this mod and require reinstalling.
 
-1.Transparent hud mod included (By CMDR_Rockman, Original Author)
+# Uninstalling
 
-2.Item Filter icons tweaked red, so you can see them easier while scrolling through large inventory lists.
+If you would like to uninstall this mod you can use the Steam **Verify Integrity of Game Cache** function and the original textures will be restored. See the [Steam Support How-To Guide](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335) for more info.
 
-3.Tiered tools now got a bit of color to their icons.
+# Screenshots
 
-4.The horizon bar for planets has been tweaked just a little bit.
+Many more screenshots are available on the [Steam Workshop page](http://steamcommunity.com/sharedfiles/filedetails/?id=710878444).
 
-5.the hide weapons texture was tweaked a bit, as I did not like just the blue hand.
+# FAQ
 
-6.Cryopods got their windows widened
+* This mod does not work when I'm subscribed to it on the Steam Workshop.
 
- V2.0 (26-june-15)
+  GUI textures are not currently moddable in SpaceEngineers and Transparent HUD+
+  must be installed manually. Subscribing on the workshop only adds an empty
+  folder with a empty text file to the game.
 
-1.Names removed from crypod, for the better :(
+* Can I restore some of the icons to the original?
+
+  Inside the GUI folder `C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Textures\GUI`
+  You can find the backup files named like `CrypodinteriorBACKUP.dds`. Delete the modded one,
+  and rename `CryopodinteriorBACKUP.dds` to `Cryopodinterior.dds` This way you can
+  disable the ones you don't want.
+
+# Contributing
+
+If you find any bugs, please let us know on the Steam Workshop or with an issue on Github. Comments are also appreciated!
+
+## Changelog
+
+### v1.0
+
+1. Transparent HUD mod included (By Rockman, Original Author)
+
+2. Item Filter icons tweaked red, so you can see them easier while scrolling through large inventory lists.
+
+3. Tiered tools now got a bit of color to their icons.
+
+4. The horizon bar for planets has been tweaked just a little bit.
+
+5. The hide weapons texture was tweaked a bit, as I did not like just the blue hand.
+
+6. Cryopods got their windows widened.
+
+### v2.0
+
+1. Names removed from crypod, for the better
 
 2. G screen color coded!
+
 NEW G SCREEN COLOR CODING!
 
+### v3.0
 
+1. Some components got their icons tweaked slightly.
 
+2. Mod info appears in loading screens and menu, as well as pause screen.
 
+3. On/Off grid icons have been changed to make more sense.
 
+4. Variants available "+" sign has been tweaked in color.
 
+### v4.0
 
+1. All submitted screenshots have made it into the update. In the future we will add more!
 
-V3.0 (01-jul-16)
+2. Contributors, authors, and loading screen uploaders have received their name in the Cryopod!
 
-1.Some components got their icons tweaked slightly
+3. Toolbar tab selection/hotbar number has received an update.
 
-2. Mod info appears in loading screens and menu, aswell as pause screen.
+4. Splash screen got mod version number.
 
-3. On/Off grid icons have been changed to make sense... because keen has a weird way of making icons..
+5. Control panel has received some color.
 
-4. Variants avalible "+" sign has been tweaked in color
+6. Girders image has been inverted. No more small steel tubes confusion!
 
-COMMUNITY PHOTO CONTEST FOR LOADING SCREENS! SEE PICTURE FOR RULES, OR CHECK THE MOD DISSCUSSIONS
+7. Additional downloads via Github made available. Rockman has made both the original and this version available on Github!
 
+## License
 
+[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
+The Transparent HUD+ mod by Zunkey is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
 
-
-
-
-
-
-Rest of the images are on the slider at the top!
-
-Download this mod from:
-DROPBOX LINK [www.dropbox.com]
-
-
-1. Download the mod from DROPBOX LINK [www.dropbox.com]
-2. Extract to desktop, or anywhere. open the readme.txt for further instructions.
-3. Copy/Extract the GUI folder to C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Textures
-4. Replace all existing Files if asked
-5. test.
-If something went wrong, or you want the vanilla ones back, validate your game files and your good to go.
-
-FOR NEW UPDATES; IT WILL REPLACE ANY EXISTING FILES
-
-FAQ:
-
-Q: This mod doesent work when im subscribed to it
-A: When you subscribe to this, your getting a empty folder with a empty text file.
-To actauly get the mod, read the above once more.
-
-Q: What if I dont like certain icons you made?
-A: Inside the gui folder, once you copy/extract to it C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Textures,
-You can find the backup named like "CrypodinteriorBACKUP.dds" simply delete the one with the edited one, and rename the "CryopodinteriorBACKUP.dds" to "Cryopodinterior.dds", that way you can disable the ones you dont want.
-
-
-
-This mod can be reverted by validating your game files
-
-If you find any bugs, pelase feel free to tell me. I also appreciate any comments, doesent matter what they are :D
-
-
-The Transparent Hud PLUS mod by Zunkey is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License.[creativecommons.org]
 Based on a work at http://store.steampowered.com/app/244850.
-
-
-
-
-
-Discalimer
-I, nor anyone else is not responsible for mistakes you make to your game files. loss of data cannot be blamed on me or any of user/maker/author/helper etc of this mod.
-
-If you are unsure about the fact that I did make backups of all the .dds files included (the ones I edited), MAKE A BACKUP OF YOUR GAME FILES. (you should be doing this already, since its an E.A game)
-Use at your own discretion. TransparentHUDPlus
