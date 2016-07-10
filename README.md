@@ -38,6 +38,8 @@ Many more screenshots are available on the [Steam Workshop page](http://steamcom
 
 [![ONOFFGRID.jpg](https://raw.githubusercontent.com/AnthonyDiGirolamo/TransparentHUDPlus/master/Screenshots/ONOFFGRID.jpg)](https://raw.githubusercontent.com/AnthonyDiGirolamo/TransparentHUDPlus/master/Screenshots/ONOFFGRID.jpg)
 
+### Tool Tier Color Coding
+
 [![tools.jpg](https://raw.githubusercontent.com/AnthonyDiGirolamo/TransparentHUDPlus/master/Screenshots/tools.jpg)](https://raw.githubusercontent.com/AnthonyDiGirolamo/TransparentHUDPlus/master/Screenshots/tools.jpg)
 
 [![cryowindow.jpg](https://raw.githubusercontent.com/AnthonyDiGirolamo/TransparentHUDPlus/master/Screenshots/cryowindow.jpg)](https://raw.githubusercontent.com/AnthonyDiGirolamo/TransparentHUDPlus/master/Screenshots/cryowindow.jpg)
